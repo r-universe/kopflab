@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "ggstackplot"]
+	path = ggstackplot
+	url = https://github.com/kopflab/ggstackplot
 [submodule "lans2r"]
 	path = lans2r
 	url = https://github.com/kopflab/lans2r
